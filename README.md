@@ -1,2 +1,2 @@
 # homework
-# This is my git studying homework
+This is my git studying homework
